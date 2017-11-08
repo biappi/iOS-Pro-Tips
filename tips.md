@@ -20,6 +20,8 @@ When dealing with structured identifiers from other systems (URLs for example) d
 
 If you find having a symbol named `numberOfSomething` consider calling it `somethingCount`
 
+Name your instance variables for what they do, not for what they are. (e.g.: `enableThingButton` instead of `toggleButton`)
+
 Lifecycle
 ---------
 
